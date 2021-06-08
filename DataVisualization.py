@@ -1,4 +1,7 @@
-# -*- coding: utf-8 -*-
+# Author: Derrick Joyce
+# 10/22/2019
+# Uses baby_names.csv and manipulates data to be visualized.
+
 import matplotlib.pyplot as plt
 
 
