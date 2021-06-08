@@ -1,3 +1,6 @@
+# Author: Derrick Joyce
+# 8/2/2020
+# Needs SpellCheck.txt
 dictionary = set()
 
 def read_file():
